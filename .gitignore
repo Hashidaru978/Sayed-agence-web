@@ -8,3 +8,4 @@ Thumbs.db
 # Dossiers dependances/outils
 node_modules/
 .vscode/
+.history/
